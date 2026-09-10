@@ -2,12 +2,16 @@
 
 A simple and user-friendly weather application that fetches real-time weather information using a weather API. Enter a city name to get current weather conditions such as temperature, humidity, wind speed, and more.
 
+![weather](weather.png)
+
 ## ✨ Features
 
 * 🌍 Search weather by city name
 * 🌡️ Display current temperature
 * 💧 Show humidity
 * 💨 Display wind speed
+* ⏰ sunrise sunset
+* 🕠 Data and time
 * ☁️ Show weather conditions
 * 🔄 Fetch real-time weather data from an API
 * 📱 Responsive and easy-to-use interface
